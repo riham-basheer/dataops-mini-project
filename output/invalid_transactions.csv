@@ -1,6 +1,0 @@
-transaction_id,user_id,country,transaction_date,transaction_type,amount
-4.0,,SAUDI ARABIA,2026-09-02,purchase,500
-,U004,EGYPT,2026-09-03,purchase,100
-7.0,U005,EGYPT,,purchase,150
-8.0,U006,SAUDI ARABIA,2026-09-03,purchase,-100
-9.0,U007,UAE,2026-09-03,refund,75

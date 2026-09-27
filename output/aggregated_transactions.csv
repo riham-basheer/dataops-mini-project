@@ -1,6 +1,0 @@
-country,transaction_date,number_of_transactions,number_of_users,total_amount
-EGYPT,2026-09-01,1,1,200
-EGYPT,2026-09-02,1,1,-50
-SAUDI ARABIA,2026-09-03,1,1,300
-UAE,2026-09-01,1,1,350
-UAE,2026-09-02,1,1,400
