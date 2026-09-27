@@ -123,7 +123,7 @@ terraform destroy -auto-approve
 
 ## CI/CD Quality Gates
 
-Every push and pull request to `main`/`master` triggers GitHub Actions to run:
+Every push and pull request to `main` triggers GitHub Actions to run:
 
 1. **Automated Testing:** Runs `pytest` against data cleaning, transaction validation, and aggregation edge cases.
 2. **Docker Build:** Verifies container image compilation without caching discrepancies.
