@@ -9,5 +9,10 @@ __pycache__/
 venv/
 .env
 
+# output files
 output/*.csv
+
+# Terraform
+terraform/.terraform.lock.hcl
+terraform/.terraform/
 
