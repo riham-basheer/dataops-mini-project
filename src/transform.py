@@ -12,7 +12,7 @@ def clean_country_name(country:str) -> str:
     """
     if pd.isna(country) or not isinstance(country, str): #it exists and is string
         return ""
-    return country.strip().upper()
+    return country.strip()
 
 
 def is_valid_transaction(row: dict) -> bool:
